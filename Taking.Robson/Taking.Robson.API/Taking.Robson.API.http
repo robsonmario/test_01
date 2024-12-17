@@ -1,0 +1,6 @@
+@Taking.Robson.API_HostAddress = http://localhost:5070
+
+GET {{Taking.Robson.API_HostAddress}}/venda/
+Accept: application/json
+
+###
